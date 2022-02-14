@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app-servicios-generales';
+  title = 'Aplicacion Web 2022';
+  version = 'Angular version 13.1.1';
 }
